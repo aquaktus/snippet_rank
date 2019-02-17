@@ -1,0 +1,55 @@
+import numpy as np 
+with open ( file_path , "r" ) as file : 
+print ( "hello world" ) 
+len ( s ) 
+json . load ( file ) 
+json . dump ( model , file_path ) 
+for i in range ( 10 ) : 
+elem_list [ - 1 ] 
+elem_list [ 1 : ] 
+if not elem_list : 
+if elem in elem_dict : 
+elem_list . append ( elem ) 
+{ 'a' : 1 , 'b' : 2 } 
+str ( elem ) 
+{ key : value for ( key , value ) in elem_list } 
+datetime . date . today ( ) + datetime . timedelta ( days = 1 ) 
+del mydict [ key ] 
+for x , y in zip ( list_1 , list_1 ) : 
+list ( range ( 10 ) ) 
+if __name__ == "__main__" : 
+x = my_list * n 
+map ( lambda x : x * 2 , l ) 
+set ( my_list ) 
+[ elem for elem in l if elem > x ] 
+import time DCNL start = time . time ( ) DCNL end = time . time ( ) DCNL print ( end - start ) 
+class MyClass : 
+x // y 
+n % k == 0 
+if myItem in list : 
+my_list . index ( element ) 
+b'a string' . decode ( 'ascii' ) 
+[ x for x in my_list ] 
+import random DCNL random . shuffle ( array ) 
+import random DCNL random . randint ( 1 , 100 ) 
+global var 
+print ( "" ) 
+string . isdigit ( ) 
+raise 
+len ( my_list ) == 0 
+if type ( o ) is str : 
+max ( my_list ) 
+import time DCNL time . sleep ( 3 ) 
+from enum import Enum DCNL class Color ( Enum ) : DCNL DCSP DCSP RED = 1 DCNL DCSP DCSP BLUE = 2 
+d [ key ] = value 
+my_list [ a : b ] 
+" " . join ( my_list ) 
+return { } 
+my_string [ 0 ] 
+s . pop ( ) 
+json . dumps ( d ) 
+x [ : : - 1 ] 
+string [ 0 ] . isdigit ( ) 
+myString . strip ( '\n' ) 
+os . system ( command ) 
+print ( '[%s]' % ', ' . join ( '%.3f' % val for val in list ) ) 

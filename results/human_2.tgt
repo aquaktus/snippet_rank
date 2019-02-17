@@ -1,0 +1,55 @@
+import numpy 
+with open ( "file.txt" ) as file 
+print ( "hello world" ) 
+len ( string ) 
+import json DCNL with open ( 'file.json' ) as f : DCNL DCSP DCSP data = json . load ( f ) 
+import json DCNL with open ( 'data.json' , 'w' ) as outfile : DCNL DCSP DCSP json . dump ( data , outfile ) 
+for i in range ( 0 , 10 ) : 
+array [ - 1 ] 
+array [ x : ] 
+if ( list == [ ] ) : 
+if "elem" in dict : 
+list . append ( variable ) 
+dict = { "a" : 0 , "b" : 0 } 
+str ( variable ) 
+dict ( tuple_variable ) 
+import datetime DCNL datetime . date . today ( ) + datetime . timedelta ( days = 1 ) 
+del mydict [ "key" ] 
+for a , b in zip ( var1 , var2 ) : 
+list = list ( range ( 0 , 10 ) ) 
+if _name_ == "_main_" : 
+my_list = my_list * n 
+list = list * 2 
+list ( set ( my_list ) ) 
+return [ i for i in my_list if i > x ] 
+import time DCNL start = time . time ( ) DCNL end = time . time ( ) DCNL runtime = end - start 
+class my_class ( ) : 
+a // b 
+if ( a % b == 0 ) : 
+if a in list : 
+list . index ( element ) 
+binary_string . decode ( ) 
+[ x for x in list if x > value ] 
+import random DCNL random . shuffle ( array ) 
+from random import randint DCNL randint ( 0 , 9 ) 
+global var1 DCNL var1 = value 
+print ( "\n<stuff here>" ) 
+a . isdigit ( ) 
+raise Exception ( "Exception explanation here" ) 
+list ( my_dict . keys ( ) ) 
+if ( type ( var ) == wanted_type ) : 
+max ( my_list ) 
+import time DCNL time . sleep ( 1 ) 
+from enum import Enum DCNL class Days ( Enum ) : DCNL DCSP DCSP SUN , MON , TUE , WED , THU , FRI , SAT = range ( 7 ) 
+dictionary [ "key" ] = value 
+my_array [ a : b ] 
+concatenated_list_string = '' . join ( my_string_list ) 
+my_empty_dict = { } 
+my_string [ 0 ] 
+my_stack . pop ( ) 
+import json DCNL json . dumps ( my_dict ) 
+x . reverse ( ) 
+string [ 0 ] . isdigit ( ) 
+myString . replace ( '\n' , '' ) 
+import subprocess DCNL subprocess . Popen ( command ) 
+print ( [ "%.3f" % number for number in list ] ) 

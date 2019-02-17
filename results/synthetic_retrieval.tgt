@@ -1,0 +1,55 @@
+VARIABLE_0 . day
+if __name__ == '__main__' : DCNL
+print ( STRING_0 . split ( ) )
+len ( LIST_0 )
+if __name__ == '__main__' : DCNL
+VARIABLE_0 + datetime . datetime . timedelta ( days = 7 ) DCNL VARIABLE_1 + datetime . datetime . timedelta ( days = 7 * VARIABLE_0 )
+for index , value in enumerate ( LIST_0 ) :
+LIST_0 [ - 1 ]
+result = [ item for sublist in LIST_0 for item in sublist ] DCNL max ( result )
+if LIST_0 :
+NUMBER_0 in LIST_0
+LIST_0 . append ( STRING_0 )
+STRING_0 . split ( STRING_1 ) DCNL STRING_0 . join ( LIST_0 )
+result = STRING_0 . join ( LIST_0 ) DCNL result . split ( )
+result = [ item for sublist in LIST_0 for item in sublist ] DCNL ',' . join ( result )
+datetime . date . today ( ) + datetime . timedelta ( days = 1 )
+LIST_0 . remove ( STRING_0 )
+VARIABLE_0 . time ( )
+[ item for sublist in LIST_0 for item in sublist ]
+if __name__ == '__main__' : DCNL
+LIST_0 . copy ( )
+VARIABLE_0 * NUMBER_0
+len ( LIST_0 )
+return LIST_0 . index ( NUMBER_0 )
+VARIABLE_0 . time ( )
+datetime . combine ( VARIABLE_0 , datetime . datetime . min . time ( ) )
+NUMBER_0 // NUMBER_1
+NUMBER_0 in LIST_0
+LIST_0 . clear ( )
+LIST_0 [ NUMBER_0 ]
+result = STRING_0 . join ( LIST_0 ) DCNL result . split ( )
+for index , value in enumerate ( LIST_0 ) :
+LIST_0 . clear ( )
+max ( VARIABLE_0 )
+VARIABLE_0 . day
+datetime . datetime . combine ( VARIABLE_0 , datetime . datetime . min . time ( ) )
+NUMBER_0 in LIST_0
+LIST_0 . clear ( ) DCNL NUMBER_0 / NUMBER_1
+LIST_0 [ - 1 ] DCNL max ( LIST_0 )
+type ( VARIABLE_0 )
+max ( LIST_0 )
+LIST_0 . clear ( ) DCNL NUMBER_0 / NUMBER_1
+LIST_0 . clear ( ) DCNL NUMBER_0 / NUMBER_1
+VARIABLE_0 + datetime . datetime . timedelta ( days = 7 )
+( VARIABLE_0 . replace ( hour = 0 , minute = 0 , second = 0 , microsecond = 0 ) + datetime . timedelta ( days = 1 ) - VARIABLE_0 ) . total_seconds ( )
+result = STRING_0 . join ( LIST_0 ) DCNL result . split ( )
+LIST_0 . clear ( )
+VARIABLE_0 [ 1 : ]
+LIST_0 . clear ( ) DCNL NUMBER_0 / NUMBER_1
+VARIABLE_0 - datetime . datetime . timedelta ( days = 7 ) DCNL NUMBER_0 ** NUMBER_1
+LIST_0 [ : : - 1 ]
+STRING_0 . join ( LIST_0 ) DCNL if LIST_0 :
+LIST_0 . remove ( STRING_0 ) DCNL STRING_0 . join ( LIST_0 )
+if __name__ == '__main__' : DCNL
+print ( STRING_0 . join ( LIST_0 ) )

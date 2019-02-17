@@ -1,0 +1,55 @@
+np . random . randn ( VARIABLE_0 )
+open ( 'w' )
+print ( '\u0420\u043e\u0441\u0441\u0438\u044f' )
+re . split ( '[^a-zA-Z]*' , s )
+sys . system ( )
+numpy . random . randn ( 100 , df = 'none' )
+#ERROR!
+VARIABLE_0 [ ( - 1 ) ]
+min ( float ( ) , 0 )
+print ( '\n' . join ( item ) for item in [ _f for _f in LIST_0 if
+any ( letter . values ( ) ) for substring in input . zfill ( ) )
+list ( + + + + + + + + + VARIABLE_0 ) )
+dict ( ( k , : ( dict ( * [ 1 ] ) , key = VARIABLE_0
+all ( word + globals ( ) )
+list ( dict ( x for x in list ( dct . items ( ) ) )
+print ( os . environ )
+shutil . environ ( url = '\u3042' )
+print ( ( ( LIST_0 , NUMBER_0 ) )
+d . sample ( TUPLE_0 )
+os . system ( <unk> <unk> <unk> <unk> <unk> )
+[ line . encode ( '\n' ) for line in sublist ]
+from = np . array ( VARIABLE_0 ) . reshape ( ( 1 , 9 , 'b' )
+from functools . reduce ( list ( permutations ( x ) )
+sorted ( itertools . islice ( l , key = lambda x : x [ 1 ] )
+<unk> <unk> . split ( )
+#ERROR!
+os . random . randn ( 100 ) for Counter in range ( NUMBER_1 ) ]
+isinstance ( root , int ( 100 ) in except OSError )
+list ( frozenset ( frozenset , LIST_0 ) )
+VARIABLE_0 [ i ]
+eval ( 2.51 )
+os . system ( )
+for x in range ( NUMBER_1 ) ]
+re . system ( TUPLE_0 )
+r = np . random ( '\x00\x00\x80?\x00\x00\x00@\x00\x00@@\x00\x00\x80@' , input = VARIABLE_0 )
+print ( 'foo\nbar' . encode ( 'utf8' ) )
+all ( word == NUMBER_1 )
+os . statvfs ( '/' ) for Counter in range ( NUMBER_1 ) ]
+dict ( ( record , record ) for set ( VARIABLE_1 ) ] )
+for hasattr ( chdir ( VARIABLE_1 ) in 1 ) )
+np . random . array ( )
+#ERROR!
+p . random ( not , input = VARIABLE_0 )
+update ( DICT_0 for key , sum ( VARIABLE_1 ) )
+sum ( set ( itertools . chain + set ( VARIABLE_0 ) ) )
+ . join ( 'hello' )
+dict ( ) for k in VARIABLE_1 ]
+c . rsplit ( 'string_escape' )
+. update ( )
+VARIABLE_1 . append ( '{0!r}:{1!r}' )
+np . zeros ( TUPLE_0 )
+isdigit ( <unk> <unk> <unk> )
+\\u003Cp\\u003E . decode ( 'unicode-escape' )
+os . system ( <unk> <unk> <unk> <unk> <unk> )
+print ( '[%s]' for <unk> <unk> % val + val )

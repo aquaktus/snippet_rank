@@ -1,0 +1,55 @@
+DCSP return ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( (
+DCSP if ( not os . path . exists ( filename ) ) : DCNL DCSP DCSP return
+DCSP return <unk> ( text , text , text , text , text , text , text ,
+DCSP return <unk> ( length , length , length )
+DCSP if ( not os . path . exists ( filename ) ) : DCNL DCSP DCSP return
+DCSP if isinstance ( ids , list ) : DCNL DCSP DCSP ids = ids . keys (
+DCSP return <unk> ( * args , ** kwargs )
+DCSP return ( ( - 1 ) + 1 )
+DCSP return ( l + 1 )
+DCSP return ( ( not isinstance ( item , list ) ) and ( len ( item )
+DCSP return True
+DCSP return <unk> ( element , key , value )
+DCSP return dict ( ( ( a , b ) for ( k , v ) in d
+DCSP return <unk> ( string , value , msg , msg , msg , msg , msg ,
+DCSP return [ ( k , v ) for ( k , v ) in sorted ( list
+DCSP return value
+DCSP key = key . replace ( key , '' ) DCNL DCSP key = key . replace
+DCSP return np . array ( [ ( - np . array ( [ ( - np .
+DCSP return <unk> ( * args , ** kwargs )
+DCSP return ( not os . path . join ( sys . argv [ 0 ] , sys
+DCSP if ( n is None ) : DCNL DCSP DCSP n = len ( n ) DCNL
+DCSP return [ ( x + x ) for x in zip ( x , x ) ]
+DCSP return [ ( ( ( ( ( ( ( x + x ) + y ) +
+DCSP return [ x for x in <unk> if ( x in x ) ]
+DCSP if ( not isinstance ( <unk> , dict ) ) : DCNL DCSP DCSP return DCNL DCSP
+DCSP return <unk> ( ) . <unk> ( )
+DCSP return base ( base , base , base , base , base , base , base ,
+DCSP return ( ( val < 0 ) or ( val < 0 ) )
+DCSP return <unk> ( barDs , count , talib . <unk> , timeperiod )
+DCSP return <unk> ( seq , index , index , index )
+DCSP return ( ( ( ( ( ( ( ( ( ( s * s ) * s
+DCSP return <unk> ( lines , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> ,
+DCSP return np . prod ( shape )
+DCSP return random . choice ( [ random . choice ( [ random . choice ( [ random . choice ( [ random .
+DCSP global <unk> DCNL DCSP global <unk> DCNL DCSP global <unk> DCNL DCSP global <unk> DCNL DCSP global <unk> DCNL DCSP global <unk> DCNL
+DCSP print ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( ( (
+DCSP return ( isinstance ( s , unicode ) and ( s . startswith ( '"' ) and s . startswith ( '"' )
+DCSP if ( not isinstance ( exception , <unk> ) ) : DCNL DCSP DCSP raise exception . exception . exception . exception .
+DCSP return dict ( { key : key for key in keys if key . startswith ( key ) ] )
+DCSP return ( ( not <unk> ( ) ) and ( not <unk> ( ) ) )
+DCSP if ( len ( <unk> ) > 0 ) : DCNL DCSP DCSP return <unk> [ 0 ] DCNL DCSP else : DCNL
+DCSP while True : DCNL DCSP DCSP print ( <unk> DCSP <unk> % ( sys . stdout , stderr ) ) DCNL DCSP DCSP
+DCSP return ( ( ( ( ( ( ( ( ( ( ( ( ( ( target + target ) + target ) +
+DCSP if ( key in dictionary ) : DCNL DCSP DCSP key = key [ key ] DCNL DCSP DCSP key = key [
+DCSP return ( ( a - b ) + ( a * b ) )
+DCSP if ( not isinstance ( s , str ) ) : DCNL DCSP DCSP s = s . encode ( 'utf-8' ) DCNL
+DCSP return { }
+DCSP return text . replace ( '\n' , '' )
+DCSP return [ ]
+DCSP return dict ( ( ( k , v ) for ( k , v ) in d . items ( ) if (
+DCSP return [ x for x in x if x ]
+DCSP return ( string . ascii_letters in string . ascii_letters )
+DCSP lines = [ ] DCNL DCSP lines = lines . split ( '\n' ) DCNL DCSP for line in lines : DCNL DCSP
+DCSP return subprocess . Popen ( cmd , shell = True , stderr = subprocess . PIPE , stderr = subprocess . PIPE ,
+DCSP return [ t for t in t if t ]

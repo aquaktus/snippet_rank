@@ -1,0 +1,55 @@
+import numpy
+open a file
+print the string hello world
+get the length of a string
+load a json file
+save `model` to a json
+make a for loop
+get last element from an array
+get tail of an array
+check if a list is empty
+check if `elem` is in dictionary
+append an element to a list
+make a dictionary with a and b as keys
+cast to string
+create dictionary from list of tuples
+get tomorrow datetime
+delete an item with key `key` from `mydict`
+iterate through 2 arrays at the same time
+make a list from 0 to 10
+run main if script is run from terminal
+duplicate list n times
+multiply elements in list by 2
+get unique elements in list 'my_list'
+return list where elements are greater than x
+calculate execution time
+create a class
+floor division
+check if is divisible by k
+does list contain
+index of element in list
+binary to string
+one line for loop
+shuffle array
+get random int
+declare global variable
+print new line
+check if string is number
+raise exception
+get dictionary keys as list
+check type
+maximum of list
+wait
+declare enum
+add key value to dictionary
+get subarray from elements a to b
+convert string list to string
+return empty dictionary
+first character in string
+stack pop
+convert dictionary to json
+Reverse list `x`
+check if string `string` starts with a number
+Trimming \n from string `myString`
+execute a command `command ` in the terminal from a python script
+print numbers in list `list` with precision of 3 decimal places

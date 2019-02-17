@@ -1,0 +1,55 @@
+globals ( ) . update ( importlib . import_module ( 'some.package' ) . __dict__ )
+os . system ( 'start "$file"' )
+hello world' [ : : ( - 1 ) ]
+return '' . join ( random . choice ( string . lowercase ) for i in range ( length ) )
+json . loads ( open ( 'sample.json' ) . read ( ) . decode ( 'utf-8-sig' ) )
+urllib . request . urlretrieve ( 'http://search.twitter.com/search.json?q=hi' , 'hi.json' )
+for fn in os . listdir ( '.' ) : DCNL DCSP DCSP if os . path . isfile ( fn ) : DCNL DCSP DCSP DCSP DCSP pass
+del a [ ( - 1 ) ]
+x [ : - 1 ] + ( x [ 1 : ] - x [ : - 1 ] ) / 2
+if ( not a ) : DCNL DCSP DCSP pass
+( 7 in a )
+c . extend ( a )
+list ( d . items ( ) )
+ME' + str ( i )
+dict ( x [ 1 : ] for x in reversed ( myListOfTuples ) )
+datetime . datetime . now ( ) . isoformat ( )
+mydict . pop ( 'key' , None )
+[ [ sum ( item ) for item in zip ( * items ) ] for items in zip ( * data ) ]
+myList = [ i for i in range ( 10 ) ]
+os . system ( 'gnome-terminal -e \'bash -c "sudo apt-get update; exec bash"\'' )
+list ( dict ( ( x [ 0 ] , x ) for x in L ) . values ( ) )
+( a . T * b ) . T
+set ( [ 'a' , 'b' , 'c' , 'd' ] )
+[ i for i in range ( len ( a ) ) if a [ i ] > 2 ]
+sys . exit ( )
+getattr ( test , a_string )
+
+( 7 in a )
+"This DCSP DCSP is a DCSP DCSP string" . split ( )
+del a [ index ]
+np . fromstring ( '\x00\x00\x80?\x00\x00\x00@\x00\x00@@\x00\x00\x80@' , dtype = '>f4' )
+for fn in os . listdir ( '.' ) : DCNL DCSP DCSP if os . path . isfile ( fn ) : DCNL DCSP DCSP DCSP DCSP pass
+np . random . shuffle ( np . transpose ( r ) )
+ord ( 'a' )
+variable = [ ]
+ a \n b \r\n c ' . split ( '\n' )
+b . isdigit ( )
+raise ValueError ( 'A very specific bad thing happened' )
+list ( d . items ( ) )
+isinstance ( s , str )
+len ( max ( i , key = len ) )
+p . wait ( )
+my_list = [ ]
+data . update ( { 'a' : 1 , } )
+[ x for x in a if x not in b ]
+str ( i )
+lst [ : ] = [ ]
+newcontents = contents . replace ( 'a' , 'e' ) . replace ( 's' , '3' )
+pd . concat ( [ GOOG , AAPL ] , keys = [ 'GOOG' , 'AAPL' ] , axis = 1 )
+json . load ( u )
+s [ : : ( - 1 ) ]
+b . isdigit ( )
+myString . rstrip ( '\n\t' )
+os . system ( 'dir c:\\' )
+[ ( '%.2d' % i ) for i in range ( 16 ) ]
